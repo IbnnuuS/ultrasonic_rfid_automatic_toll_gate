@@ -77,10 +77,6 @@ This project demonstrates an automated toll gate system using ultrasonic sensors
 | Positive (+) | 7       |
 | Negative (-) | GND     |
 
-## Circuit Diagram
-
-> **Note:** Ensure all connections are secure and match the wiring table.
-
 ## Installation and Usage
 
 ### 1. Setup Instructions
@@ -94,3 +90,6 @@ This project demonstrates an automated toll gate system using ultrasonic sensors
    - `LiquidCrystal_I2C`
    - `Servo`
 4. Upload the code to the Arduino board.
+
+### 2. Implementation Results
+   Open the link if you want to see the results of my implementation [Google Drive](https://skillicons.dev)
