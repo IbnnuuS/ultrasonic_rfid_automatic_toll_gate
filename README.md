@@ -92,4 +92,4 @@ This project demonstrates an automated toll gate system using ultrasonic sensors
 4. Upload the code to the Arduino board.
 
 ### 2. Implementation Results
-   Open the link if you want to see the results of my implementation [Google Drive](https://skillicons.dev)
+   Open the link if you want to see the results of my implementation [Google Drive](https://drive.google.com/file/d/1jqqLFFZpMeHdAzWQ8CQ-o_NIQ4XqotRH/view)
